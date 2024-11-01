@@ -45,7 +45,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Paket 1"
+                            android:text="Bakso Komplit"
                             android:textColor="@color/black"
                             android:textSize="16sp"
                             android:textStyle="bold" />
@@ -59,14 +59,14 @@
                                 android:id="@+id/tvPaket11"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:text="Rp 21.000"
+                                android:text="Rp 20.000"
                                 android:textColor="@color/primary" />
 
                             <TextView
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
                                 android:layout_marginStart="8dp"
-                                android:text="Rp 10.500"
+                                android:text="Rp 10.0000"
                                 android:textColor="@color/primary" />
 
                         </LinearLayout>
@@ -173,7 +173,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Paket 2"
+                            android:text="Chicken Katsu"
                             android:textColor="@color/black"
                             android:textSize="16sp"
                             android:textStyle="bold" />
@@ -181,7 +181,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Rp 34.000"
+                            android:text="Rp 15.000"
                             android:textColor="@color/primary" />
 
                     </LinearLayout>
@@ -268,7 +268,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Paket 3"
+                            android:text="Udang Goreng"
                             android:textColor="@color/black"
                             android:textSize="16sp"
                             android:textStyle="bold" />
@@ -356,7 +356,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Paket 4"
+                            android:text="Spaghetti"
                             android:textColor="@color/black"
                             android:textSize="16sp"
                             android:textStyle="bold" />
@@ -364,7 +364,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Rp 22.500"
+                            android:text="Rp 16.500"
                             android:textColor="@color/primary" />
 
                     </LinearLayout>
@@ -451,7 +451,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Paket 5"
+                            android:text="Sego Sambel"
                             android:textColor="@color/black"
                             android:textSize="16sp"
                             android:textStyle="bold" />
@@ -459,7 +459,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Rp 16.500"
+                            android:text="Rp 10.000"
                             android:textColor="@color/primary" />
 
                     </LinearLayout>
@@ -539,7 +539,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Paket 6"
+                            android:text="Nasi Uduk"
                             android:textColor="@color/black"
                             android:textSize="16sp"
                             android:textStyle="bold" />
@@ -547,7 +547,7 @@
                         <TextView
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
-                            android:text="Rp 26.000"
+                            android:text="Rp 10.000"
                             android:textColor="@color/primary" />
 
                     </LinearLayout>
