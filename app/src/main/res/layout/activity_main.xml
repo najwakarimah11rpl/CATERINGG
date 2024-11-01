@@ -30,7 +30,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="16dp"
-                    android:text="HAI! MAU MAKAN APA?"
+                    android:text="Halo! Mau makan apa?"
                     android:textColor="@color/black"
                     android:textSize="24dp"
                     android:textStyle="bold" />
@@ -57,7 +57,7 @@
                 android:layout_height="50dp"
                 android:layout_marginStart="18dp"
                 android:layout_marginEnd="18dp"
-                android:background=""
+                android:background="@drawable/bg_search"
                 android:orientation="horizontal">
 
                 <ImageView
@@ -73,7 +73,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:layout_marginStart="20dp"
-                    android:text="Cari makan"
+                    android:text="Search food, package etc."
                     android:textSize="14sp"
                     android:textStyle="bold" />
 
@@ -102,7 +102,7 @@
                         android:drawablePadding="10dp"
                         android:gravity="center_vertical"
                         android:padding="10dp"
-                        android:text="Margonda, Jawa Barat"
+                        android:text="Sidoarjo"
                         android:textColor="#ffec2d2d"
                         android:textSize="12sp"
                         app:drawableStartCompat="@drawable/ic_location"
